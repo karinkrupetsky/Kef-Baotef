@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">כיף בעוטף</string>
+    <string name="back_btn">חזור</string>
+    <string name="coins">מטבעות:</string>
+    <string name="enter_your_name">הכנס את שמך</string>
+    <string name="go">קדימה!</string>
+    <string name="game_over">המשחק הסתיים!</string>
+    <string name="high_score_btn">טבלת שיאים</string>
+    <string name="level_selection">בחירת שלבים</string>
+    <string name="new_highscore">שברת שיא חדש!</string>
+    <string name="next_level">שלב הבא:</string>
+    <string name="play_ptn">שחק</string>
+    <string name="showcase1_txt">ברוך הבא! נערוך הסבר קצר על אופן המשחק</string>
+    <string name="showcase2_txt">לחץ כאן כדי לירות</string>
+    <string name="you_won">ניצחת!</string>
+    <string name="level_selection_header">בחירת שלבים</string>
+    <string name="tuturial1">לחץ על הדמות כדי לזוז</string>
+    <string name="tutorial2">היזהר מאויבים ואל תבזבז את הקליעים שלך! כל קליע מפוספס יוריד לכם 5 נקודות</string>
+    <string name="tutorial3">בזמן אזעקת צבע אדום לחץ על הטילים כדי ליירט אותם</string>
+    <string name="highscore_table">טבלת שיאים</string>
+    <string name="exit_game_msg">כבר עוזבים?</string>
+    <string name="exit_game_yes">"כן  "</string>
+    <string name="exit_game_no">לא, אני רוצה להמשיך להנות!</string>
+    <string name="exit_level_title">יציאה</string>
+    <string name="exit_level_msg">הניקוד לא יישמר, לצאת משלב</string>
+    <string name="exit_level_yes">כן</string>
+    <string name="exit_level_no">לא</string>
+    <string name="player">שחקן</string>
+    <string name="exit_game_title">יציאה</string>
+</resources>

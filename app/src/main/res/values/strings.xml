@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kef Baotef</string>
+    <string name="play_ptn">Play</string>
+    <string name="high_score_btn">High Score</string>
+    <string name="level_selection_header">Level Selection</string>
+    <string name="back_btn">Back</string>
+    <string name="loading_screen_timer">%1$d</string>
+    <string name="next_level">Next level:</string>
+    <string name="coins">Coins:</string>
+    <string name="go">Go!</string>
+    <string name="you_won">You Won!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="level_selection">Level selection</string>
+    <string name="new_highscore">New highscore!</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="showcase1_txt">Welcome!  First time playing? let\'s have a few seconds!</string>
+    <string name="showcase2_txt">Press here to shoot</string>
+    <string name="tuturial1">Press on the character to move</string>
+    <string name="tutorial2">Watch out from enemies and don\'t waste your bullets! Every missed bullet is 5 point penalty</string>
+    <string name="tutorial3">On Red Color alert press on the rockets to explode them</string>
+    <string name="highscore_table">Highscore</string>
+    <string name="exit_game_msg">Leaving already?</string>
+    <string name="exit_game_yes">Yes please</string>
+    <string name="exit_game_no">No, I want to have fun!</string>
+    <string name="exit_level_title">Exit Level</string>
+    <string name="exit_level_msg">"Data will be lost. Exit from level "</string>
+    <string name="exit_level_yes">Yes</string>
+    <string name="exit_level_no">No</string>
+    <string name="player">Player</string>
+    <string name="exit_game_title">Exit</string>
+</resources>
